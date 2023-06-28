@@ -13,4 +13,3 @@ class Solution:
                    return[ i,j]
         
 # @lc code=end
-
